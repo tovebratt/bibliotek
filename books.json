@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Barbapappa",
+    "author": "Kent Kentsson",
+    "pages": "10",
+    "rented": false,
+    "id": 1
+  },
+  {
+    "title": "Faktabok om dinosaurier",
+    "author": "Anna Andersson",
+    "pages": "48",
+    "rented": false,
+    "id": 2
+  },
+  {
+    "title": "Lilla räv",
+    "author": "Sten Stensson",
+    "pages": "17",
+    "rented": true,
+    "id": 3
+  },
+  {
+    "title": "Spöket laban",
+    "author": "Sören Sörensson",
+    "pages": "28",
+    "rented": false,
+    "id": 4
+  },
+  {
+    "title": "Skalmans bok",
+    "author": "Petter",
+    "pages": "20",
+    "rented": true,
+    "id": 5
+  },
+  {
+    "title": "Pippi",
+    "author": "Astrid",
+    "pages": "80",
+    "rented": false,
+    "id": 6
+  },
+  {
+    "title": "Emil i Lönneberga",
+    "author": "Astrid",
+    "pages": "88",
+    "rented": false,
+    "id": 7
+  },
+  {
+    "title": "Vem blöder",
+    "author": "Stina",
+    "pages": "20",
+    "rented": false,
+    "id": 8
+  }
+]
